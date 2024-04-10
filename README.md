@@ -31,5 +31,5 @@ Basta esperar que o CMake vai baixar a biblioteca GSL na pasta src/vendor (não 
 
 Agora basta programar seu código no arquivo em src/main.c (pode mudar para main.cpp caso queira utilizar C++) e clicar no mesmo botão do passo 3 para rodar seu código!
 
-
+Caso deseje mudar para C++, basta mudar a extensão do arquivo main e mudar também no arquivo CMakeLists.txt conforme a imagem abaixo:
 
