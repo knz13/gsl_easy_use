@@ -34,7 +34,7 @@ list(APPEND easy_gsl_INCLUDES ${gsl_SOURCE_DIR}/include)
 list(APPEND easy_gsl_LIBRARIES gsl gslcblas)
 
 add_executable(${PROJECT_NAME}
-    ${PROJECT_SOURCE_DIR}/src/main.c
+    ${PROJECT_SOURCE_DIR}/src/main.c # Mudar para "${PROJECT_SOURCE_DIR}/src/main.cpp" caso deseje usar C++
 )
 
 # Definindo o padrão C++

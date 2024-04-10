@@ -5,9 +5,7 @@ Repositório criado para ajudar a turma de MNE 2024.1 da UnB a utilizar a biblio
 
 ## Dependencias
 
-Primeiramente, é necessário ter o [Python](https://www.python.org/downloads/) instalado, se não instalou ainda, so clicar no link acima.
-
-Agora, precisamos instalar o [CMake](https://cmake.org/download/), uma ferramenta que facilita o build de projetos C/C++. Basta clicar no link acima para instalar a ferramenta.
+Primeiramente, precisamos instalar o [CMake](https://cmake.org/download/), uma ferramenta que facilita o build de projetos C/C++. Basta clicar no link acima para instalar a ferramenta.
 
 ## Instruções (VSCode)
 
