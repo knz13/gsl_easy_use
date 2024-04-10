@@ -41,3 +41,5 @@ Agora basta programar seu código no arquivo em src/main.c (pode mudar para main
 
 Caso deseje mudar para C++, basta mudar a extensão do arquivo main e mudar também no arquivo CMakeLists.txt conforme a imagem abaixo:
 
+<img width="1440" alt="Screenshot 2024-04-09 at 23 30 44" src="https://github.com/knz13/gsl_easy_use/assets/82895172/7431abfc-fd72-40d8-9503-8568de800a7c">
+
